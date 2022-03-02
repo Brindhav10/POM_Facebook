@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suit name="Test suit">
+<test name="Test cases">
+<classes>
+
+<class name="pom.testcases.TC001_FacebookSingnup"></class>
+
+
+
+
+
+
+
+</classes>
+</test>
+</suit>
